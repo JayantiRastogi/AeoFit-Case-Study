@@ -1,4 +1,4 @@
-# AeoFit-Case-Study
+# AeroFit-Case-Study
 
 About AeroFit:
 AeroFit is a leading brand in the fitness equipment industry, offering a wide range of products to cater to the diverse needs of health-conscious individuals. Their product portfolio includes treadmills, exercise bikes, gym equipment, and various fitness accessories.  Among their core offerings are three distinct treadmills: the KP281, KP481, and KP781.
