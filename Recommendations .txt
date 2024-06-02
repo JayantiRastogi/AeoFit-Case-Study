@@ -1,0 +1,17 @@
+Recommendations :
+● Targeted Recommendations:
+
+	* There is Gender irregularity in purchase of KP781. More promotional discounts for females can be offered to increase sales of KP781 among females.
+	*  KP781 can be advertised with national figures (athletes, movie stars) for better visibility of product.
+	*  Targeted audience for KP 781 can be people aged above 40 as they probably have high income.
+● Tech Combability:
+
+	* Products can be developed with integration to mobile applications for better fitness tracking.
+	* Recommendation engine can be developed for Staff as well as for website based upon customer profiling.
+● Data-Driven Marketing:
+
+	* There is almost no sale with people aged under 18. Targeted Products for this group with low maintenance or better finance options can be made available for increase in sales. Promotions can be done while targeting this age group.
+
+	* Less than 20% of total population using treadmills for minimum of 2 days per week. Awareness Programs about health and fitness can be organised to promote usage.
+
+	* Males have better fitness than females and their per week usage is also high. Female orientated promotional drives can be planned to promote fitness among females.
