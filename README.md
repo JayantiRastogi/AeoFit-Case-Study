@@ -4,9 +4,13 @@ About AeroFit:
 Aeroﬁt is a leading brand in the ﬁeld of ﬁtness equipment. Aeroﬁt provides a product range including machines such as treadmills, exercise bikes, gym equipment, and ﬁtness accessories to cater to the needs of all categories of people.
 
 Product Portfolio:
+
 ● The KP281 is an entry-level treadmill that sells for $1,500.
+
 ● The KP481 is for mid-level runners that sell for $1,750.
+
 ● The KP781 treadmill has advanced features that sell for $2,500.
+
 
 Problem Statement:
 
