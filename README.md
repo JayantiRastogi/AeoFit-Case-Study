@@ -23,4 +23,4 @@ all conditional and marginal probabilities and their insights/impact on the busi
 
 Approach:
 
-I conducted an Exploratory Data Analysis (EDA) on the Aerofit treadmill customer dataset. My goal was to identify customer profiles for each treadmill type. I achieved this by analyzing characteristics like age, income, and usage patterns. Through visualizations and descriptive statistics, I segmented customers based on their preferences and potential purchase behavior. This information can be used by Aerofit to provide better product recommendations and improve customer targeting.
+I conducted an Exploratory Data Analysis (EDA) on the Aerofit treadmill customer dataset. My goal was to identify customer profiles for each treadmill type. I achieved this by analyzing characteristics like age, income, education and usage patterns. Through visualizations and descriptive statistics, I segmented customers based on their preferences and predict potential purchase behavior. This information can be used by Aerofit to provide better product recommendations and improve customer targeting.
